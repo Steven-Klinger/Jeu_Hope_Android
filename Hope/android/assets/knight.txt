@@ -1,0 +1,18 @@
+knight.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Knight_step_front1
+  rotate: false1
+  xy: 2, 2
+  size: 62, 91
+  orig: 64, 95
+  offset: 0, 2
+  index: 1
+Knight_step_front2
+  rotate: false
+  xy: 66, 2
+  size: 60, 88
+  orig: 64, 92
+  offset: 0, 2
+  index: 2

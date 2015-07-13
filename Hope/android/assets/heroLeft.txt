@@ -1,0 +1,25 @@
+heroLeft.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Man_step_left1
+  rotate: false
+  xy: 2, 134
+  size: 50, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+Man_step_left2
+  rotate: false
+  xy: 2, 2
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: 1
+Man_step_left3
+  rotate: false
+  xy: 2, 68
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: 2

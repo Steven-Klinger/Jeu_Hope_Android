@@ -1,0 +1,25 @@
+heroUp.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Man_step_back1
+  rotate: false
+  xy: 2, 2
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+Man_step_back2
+  rotate: false
+  xy: 2, 134
+  size: 50, 64
+  orig: 52, 64
+  offset: 1, 0
+  index: 1
+Man_step_back3
+  rotate: false
+  xy: 2, 68
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: 2

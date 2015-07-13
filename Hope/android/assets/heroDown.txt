@@ -1,0 +1,25 @@
+heroDown.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Man_step_front1
+  rotate: false
+  xy: 2, 66
+  size: 50, 64
+  orig: 52, 64
+  offset: 1, 0
+  index: -1
+Man_step_front2
+  rotate: false
+  xy: 2, 132
+  size: 50, 62
+  orig: 52, 64
+  offset: 1, 0
+  index: 1
+Man_step_front3
+  rotate: false
+  xy: 2, 2
+  size: 52, 62
+  orig: 52, 64
+  offset: 0, 0
+  index: 2
